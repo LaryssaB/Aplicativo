@@ -1,2 +1,3 @@
 # Aplicativo
-Aplicativo Ajude ao próximo
+Aplicativo Ajude o próximo
+Ideia inicial
